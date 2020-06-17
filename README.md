@@ -1,0 +1,3 @@
+# DockerHub watcher
+
+Because developers tend to overwrite tags not only in Git ...

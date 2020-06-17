@@ -1,0 +1,14 @@
+# OSX/MSW
+.DS_Store
+._.*
+Thumbs.db
+
+# Build
+/dockerhub-watcher*
+
+# Misc
+/db
+/tmp
+
+# Keepers
+!.keep

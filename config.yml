@@ -1,0 +1,18 @@
+---
+docker:
+  username: 'username'
+  password: 'password'
+  db: './db'
+  repos:
+  - 'library/golang'
+
+periodic:
+  period: 600
+
+console:
+  enabled: true
+  color: true
+
+slack:
+  enabled: false
+  webhook_url: ''
