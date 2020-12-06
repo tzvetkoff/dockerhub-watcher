@@ -1,12 +1,11 @@
 module github.com/tzvetkoff/dockerhub-watcher
 
-go 1.14
+go 1.15
 
 require (
-	github.com/fatih/color v1.9.0
-	github.com/mattn/go-colorable v0.1.6 // indirect
-	github.com/spf13/cobra v1.0.0
-	github.com/tzvetkoff-go/errors v0.0.0-20200613144612-a9a9874ec291
-	github.com/tzvetkoff-go/xd v0.0.0-20200613145354-6e8f24373c5b
-	gopkg.in/yaml.v2 v2.2.2
+	github.com/fatih/color v1.10.0
+	github.com/spf13/cobra v1.1.1
+	github.com/tzvetkoff-go/errors v0.0.0-20201206093350-b94ca0d8e04d
+	github.com/tzvetkoff-go/xd v0.0.0-20201206092330-5ba4c8cd80d6
+	gopkg.in/yaml.v2 v2.4.0
 )
