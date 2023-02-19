@@ -5,8 +5,9 @@ import (
 	"os"
 	"path"
 
+	"gopkg.in/yaml.v3"
+
 	"github.com/tzvetkoff-go/errors"
-	"gopkg.in/yaml.v2"
 )
 
 // FindTagResult ...
